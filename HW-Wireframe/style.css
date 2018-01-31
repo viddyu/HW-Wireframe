@@ -1,0 +1,18 @@
+body {
+	background-color: #777;
+width: 960px;
+font-size: 18px;
+font-family: Arial;}
+section{ float: left;
+	box-sizing: 495px;
+clear: left;
+text-align: center;
+}
+	aside{float: right;
+		text-align: center;
+		padding: 15px;}
+	header, footer {text-align: center;
+		padding: 15px;}
+	div.nav { box-sizing: 50px
+text-align: center;}
+	div.content{color: #ebebeb;}
